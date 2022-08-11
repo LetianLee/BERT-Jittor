@@ -1,1 +1,1 @@
-from .bert_model import BertConfig, BertModel, BertClassification
+from .bert_model import BertConfig, BertModel, BertClassification, BertForQuestionAnswering
